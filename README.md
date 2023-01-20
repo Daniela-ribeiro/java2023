@@ -7,11 +7,11 @@
 #### 1.  Sintaxe java.
 #### 2.  condicioal:
 
-    1.1 if
+    2.1 if
    
-    1.2 else
+    2.2 else
     
-    1.3 switch
+    2.3 switch
 
 #### 3.  Estrutura de repetição:
  
