@@ -4,8 +4,8 @@
 ### plataforma : _dio_
 
 ## conteúdos:
-1.  Sintaxe java.
-2.  condicioal:
+#### 1.  Sintaxe java.
+#### 2.  condicioal:
 
     1.1 if
    
@@ -13,7 +13,7 @@
     
     1.3 switch
 
-3.  Estrutura de repetição:
+#### 3.  Estrutura de repetição:
  
     3.1  while
     
